@@ -1,0 +1,21 @@
+form {
+    text-align: center;
+    border: 1px solid #ccc;
+    padding: 50px;
+    border-radius: 50px;
+    background-color: white;
+}
+ body {
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     height: 100vh;
+     margin: 0;
+     background-image: url("/back.webp");
+ }
+ .top-right-link {
+     position: absolute;
+     top: 0;
+     right: 0;
+     padding: 10px;
+ }
